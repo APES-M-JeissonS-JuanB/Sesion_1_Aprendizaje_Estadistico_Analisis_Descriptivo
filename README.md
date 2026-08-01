@@ -15,10 +15,7 @@ Repositorio creado para almacenar el desarrollo de los talleres de la asignatura
 
 ### 📖 Contenido
 
-- Introducción al curso
-- Análisis descriptivo
-- Desarrollo del taller
-- Notebook en Google Colab
+- Desarrollo del taller en Notebook en Google Colab
 
 ---
 
