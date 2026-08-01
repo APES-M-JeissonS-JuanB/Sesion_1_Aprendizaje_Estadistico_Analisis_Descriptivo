@@ -48,5 +48,5 @@ Cada sesión del curso contará con un repositorio independiente con el objetivo
 ---
 
 <p align="center">
-Hecho con ❤️ por Juan Bogotá & Jeisson David
+Hecho con ❤️ por Juan Bogotá & Jeisson Sanchez
 </p>
