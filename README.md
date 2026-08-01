@@ -15,8 +15,8 @@ Repositorio creado para almacenar el desarrollo de los talleres de la asignatura
 
 ### 📖 Contenido
 
-- Desarrollo del taller en Notebook en Google Colab
-- Recurso sesión 1: Introducción
+- Desarrollo del taller en Notebook en Google Colab (Sanchez_Jeisson_y_Bogota_Juan_CasoEstudio_sesion1.ipynb)
+- Recurso sesión 1: Introducción (Sesión_1_Aprendizaje_Estadístico_Analisis_Descriptivo.ipynb)
 
 ---
 
@@ -34,6 +34,7 @@ Repositorio creado para almacenar el desarrollo de los talleres de la asignatura
 ```text
 📦 Sesion_1_Aprendizaje_Estadistico_Analisis_Descriptivo
  ├── README.md
+ ├── Sanchez_Jeisson_y_Bogota_Juan_CasoEstudio_sesion1.ipynb
  └── Sesión_1_Aprendizaje_Estadístico_Analisis_Descriptivo.ipynb
 ```
 
